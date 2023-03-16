@@ -2,6 +2,8 @@ if while commiting , the error is fatal : cannot autodetect email address user :
         > git config --global user.email "your_address_email@domain.com"
         > git config --global user.name "your_name"
 
+> when new user: git config credential.username "user name"
+
 > git clone <ssh id or link> ==> copying from github to remote folder
 
 > git status ==> changes made in the repo
